@@ -17,6 +17,7 @@ native API packages and their versions are :
 * google-cloud-storage v1.26.0
 
 The jupyter notebook can be run anywhere (need WAS connection), the SDK we used to initiate transfer is globus-sdk 1.8.0
+please refer to https://globus-sdk-python.readthedocs.io/ for tutoal to create your applicationa and obtain your credential for remote code access and control.
 
 ## storage service for experiment
 * We applied a free trail account on [wasabi](https://wasabi.com/) for our wasabi experiments.
