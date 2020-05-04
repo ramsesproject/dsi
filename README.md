@@ -26,9 +26,9 @@ The jupyter notebook can be run anywhere (need WAS connection), the SDK we used 
 * as mentioned in the paper, we setup up our own Ceph system using two storage nodes on NSF Chameleon Cloud. 
 
 ## Globus support
-In order to test our Globus implementation we setup our own DTN and installed all needed connector. In order to run the code in jupyter notebook, you need:
+In order to test our Globus implementation, we setup our own DTN on NSF Chameleon Cloud and installed all needed connector. In order to run the code in jupyter notebook, you need:
 * create a free account on globus.org
 * follow their instruactions to install and setup connector, POSIX connector is a must in ay case.
 * a subscription is needed to run cloud storage connector, you may either subscribe one or contact Globus to add your DTN UUID to a testing pool
-
+* for S3 and google cloud storage, we also evalauted the case where connector runs near the storage bucket, for that you need repeat the setup on the cloud again.
 
