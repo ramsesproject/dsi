@@ -10,7 +10,7 @@ S3, Ceph and Wasabi used boto3, so their code are very much the same.
 # Dependencies 
 All python code run with python 3.7 with numpy, etc as shown in the code
 native API packages and their versions are :
-boto3 v1.9.66, 
-boxsdk v2.7.1, 
-pydrive v1.3.1, 
-google-cloud-storage v1.26.0
+* boto3 v1.9.66, 
+* boxsdk v2.7.1, 
+* pydrive v1.3.1, 
+* google-cloud-storage v1.26.0
