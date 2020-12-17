@@ -1,5 +1,5 @@
 # What
-experiment scripts for DSI paper experiments 
+Experiment scripts for the paper entitled: [Design and Evaluation of a Simple Data Interface for Efficient Data Transfer Across Diverse Storage](http://arxiv.org/abs/2009.03190) 
 
 # Dataset
 for all experiments, the corresponding dataset should be created and placed in the place as indicated in the soruce code, i.e., **/data/ds-5g** or **/data/ds-1g**. 
